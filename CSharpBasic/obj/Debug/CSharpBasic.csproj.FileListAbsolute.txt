@@ -1,2 +1,9 @@
 C:\Users\slck8\Desktop\CSharpBasic\CSharpBasic\bin\Debug\CSharpBasic.exe.config
 C:\Users\slck8\Desktop\CSharpBasic\CSharpBasic\obj\Debug\CSharpBasic.csprojResolveAssemblyReference.cache
+C:\Users\slck8\Desktop\CSharpBasic\CSharpBasic\bin\Debug\CSharpBasic.exe
+C:\Users\slck8\Desktop\CSharpBasic\CSharpBasic\bin\Debug\CSharpBasic.pdb
+C:\Users\slck8\Desktop\CSharpBasic\CSharpBasic\bin\Debug\HtmlAgilityPack.dll
+C:\Users\slck8\Desktop\CSharpBasic\CSharpBasic\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\slck8\Desktop\CSharpBasic\CSharpBasic\bin\Debug\HtmlAgilityPack.xml
+C:\Users\slck8\Desktop\CSharpBasic\CSharpBasic\obj\Debug\CSharpBasic.exe
+C:\Users\slck8\Desktop\CSharpBasic\CSharpBasic\obj\Debug\CSharpBasic.pdb
