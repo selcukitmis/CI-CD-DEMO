@@ -10,7 +10,7 @@ namespace CSharpBasic
     {
         static void Main(string[] args)
         {
-            asasda;
+            Console.WriteLine("Hello");
         }
     }
 }
