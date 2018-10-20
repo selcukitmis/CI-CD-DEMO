@@ -10,6 +10,7 @@ namespace CSharpBasic
     {
         static void Main(string[] args)
         {
+            asasda
         }
     }
 }

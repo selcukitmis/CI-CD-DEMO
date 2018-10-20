@@ -1,1 +1,2 @@
 C:\Users\slck8\Desktop\CSharpBasic\CSharpBasic\bin\Debug\CSharpBasic.exe.config
+C:\Users\slck8\Desktop\CSharpBasic\CSharpBasic\obj\Debug\CSharpBasic.csprojResolveAssemblyReference.cache
